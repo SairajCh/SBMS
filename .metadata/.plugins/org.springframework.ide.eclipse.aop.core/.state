@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="17_Web_MVC_H2_DB_Product_App"/>
+<aop-project name="35_SBMS_Welcome_API"/>
+<aop-project name="37_SBMS_Redis_App"/>
+<aop-project name="26_Book_REST_API"/>
+<aop-project name="16_Web_MVC_H2_DB_App"/>
+<aop-project name="12_DataJPA_CompositePK_App"/>
+<aop-project name="15_Web_MVC_Student_App"/>
+<aop-project name="29_Async_Client_App"/>
+<aop-project name="14_Web_MVC_Book_App"/>
+<aop-project name="34_SBMS_Greet_API"/>
+<aop-project name="33_SBMS_Admin_Server"/>
+<aop-project name="39_SBMS_GreetApi_ConfigServer_Client"/>
+<aop-project name="19_Web_MVC_Thymeleaf_validations"/>
+<aop-project name="11_DataJPA_JpaRepo_App"/>
+<aop-project name="21_Web_MVC_Exception_Handling"/>
+<aop-project name="20_Web_MVC_Embedded_Server"/>
+<aop-project name="10_DataJPA_CRUDRepo_App"/>
+<aop-project name="24_REST_API"/>
+<aop-project name="40_SBMS_WelcomeApi_ConfigServer_Client"/>
+<aop-project name="18-Web_MVC_Thymleaf_App"/>
+<aop-project name="30_Rest_Api_Exception_handling"/>
+<aop-project name="36_SBMS_API_Gateway"/>
+<aop-project name="28_Make_My_Trip_App"/>
+<aop-project name="25_User_REST_API"/>
+<aop-project name="32_SBMS_Service_Registry"/>
+<aop-project name="27_IRCTC_Rest_API"/>
+<aop-project name="25_REST_API-1"/>
+<aop-project name="38_SB_Config_Server_App"/>
+</aop-reference-model>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;30_Rest_Api_Exception_handling&apos;" deleteContents="true" description="Delete resource &apos;30_Rest_Api_Exception_handling&apos;" element1="/30_Rest_Api_Exception_handling" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1684058687235"/>
+</session>
